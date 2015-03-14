@@ -1,0 +1,27 @@
+(rare) Viking Cat
+(rare) Wizard Cat
+(rare) Wheel Cat
+(super rare) Bath Cat
+---END SPIN 10 FOR UBER EVENT---
+(rare) Jurassic Cat
+(rare) Bishop Cat
+(rare) Fortune-Teller Cat
+(rare) Shaman Cat (might stop floating enemies)
+(rare) Jurassic Cat
+(rare) Salon Cat (sexy legs range area attack)
+(rare) Viking Cat
+(rare) Fortune-Teller Cat
+(rare) Shaman Cat (might stop floating enemies)
+(uber super rare) Maeda Keji (takes greatly reduced damage from black)
+---END SPIN 10 FOR UBER EVENT---
+(uber super rare) Oda Nobunaga (stops black people)
+(rare) Bishop Cat
+(super rare) sushi cat (takes reduced damage from red) 
+[checkpoint OP 37]
+(rare) Bishop Cat
+(rare) Archer Cat (deals massive damage to floating enemies)
+[checkpoint OP 42]
+(rare) Jurassic Cat
+(rare) Viking Cat
+(rare) Wheel Cat
+
