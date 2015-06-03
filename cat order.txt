@@ -24,4 +24,12 @@
 (rare) Jurassic Cat
 (rare) Viking Cat
 (rare) Wheel Cat
+...
+(rare) Apple cat
+(Uber super rare) Princess Kaguya (Might slow flying or angelic)
+(rare) fortune teller cat
+(rare) tin cat
+(super rare) Juliet Cat (briefly stops angels, area attack)
+(rare) Pirate cat
+
 
